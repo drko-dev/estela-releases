@@ -3,13 +3,13 @@
     <channel>
         <title>Estela</title>
         <item>
-            <title>1.1.3</title>
-            <pubDate>Sat, 27 Jun 2026 17:26:54 -0300</pubDate>
-            <sparkle:version>1.1.3</sparkle:version>
-            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <title>1.1.4</title>
+            <pubDate>Sat, 27 Jun 2026 17:34:56 -0300</pubDate>
+            <sparkle:version>1.1.4</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/drko-dev/estela-releases/releases/download/1.1.3/Estela-1.1.3.zip" length="1461461" type="application/octet-stream" sparkle:edSignature="Goa1OcHa+0/P+7jNxuv9lhjgAFPhYyTWOLFoUxqUGHfeOJQGip+SYumNLJpmPLxfm8OgSTuZWB/Byvg5Xew0BQ=="/>
+            <enclosure url="https://github.com/drko-dev/estela-releases/releases/download/1.1.4/Estela-1.1.4.zip" length="1461118" type="application/octet-stream" sparkle:edSignature="gVMrntlWb3RazaGt4p4fOXtgIzs9FwUo3MGeCvbtb4ceE+PYTagDEBETnTMijC8452x33dH7vxTP6R3HtmQmAA=="/>
         </item>
     </channel>
 </rss>
